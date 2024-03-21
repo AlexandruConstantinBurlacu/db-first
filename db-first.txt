@@ -1,10 +1,10 @@
 Tabella: Auto Usate
 
-id:
-marca:
-chilometri:
-prezzo: 
-colore:
-carburante:
-cambio:
-descrizione:
+id: MEDIUMINT PK,
+marca: VARCHAR(50) NOT NULL,
+chilometri: INT,
+prezzo: DECIMAL(10, 2) NOT NULL;
+colore: VARCHAR
+carburante: VARCHAR(20), 
+cambio: VARCHAR(20),
+descrizione: TEXT,
