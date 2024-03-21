@@ -1,0 +1,10 @@
+Tabella: Auto Usate
+
+id:
+marca:
+chilometri:
+prezzo: 
+colore:
+carburante:
+cambio:
+descrizione:
